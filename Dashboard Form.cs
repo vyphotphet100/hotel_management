@@ -23,8 +23,7 @@ namespace Hotel_Manager
                int nRightRect,
                int nBottomRect,
                int nWidthEllipse,
-               int nHeightEllipse,
-               int x = 10
+               int nHeightEllipse
          );
 
         public FormDashBoard()
